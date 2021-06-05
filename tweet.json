@@ -1,0 +1,51 @@
+[{
+  "_id": "24c89b6a-9936-48e4-9732-a9ea47dd4915",
+  "message": "I like SH",
+  "loginId": "nithya",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [
+    {
+      "id": "a4f3402f-b61e-468a-8cf9-eb16540f143a",
+      "loginId": "roshini.r",
+      "repliedMessage": "I like SH",
+      "repliedDTTM": "2021-05-31T21:53:23.429",
+      "replyMsglike": 1,
+      "liked": true
+    },
+    {
+      "id": "08a346ea-7557-47fe-b3dc-ef3d515b5183",
+      "loginId": "roshini",
+      "repliedMessage": "I too like SH",
+      "repliedDTTM": "2021-05-31T21:58:39.412",
+      "replyMsglike": 1,
+      "liked": true
+    }
+  ],
+  "postDTTM": "2021-05-31T21:27:49.141",
+  "postLikeCount": 50
+},{
+  "_id": "80e507f6-7688-4888-a40f-9ae905d08902",
+  "message": "I like Karthick",
+  "loginId": "nithya.t",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [
+    {
+      "id": "a4f3402f-b61e-468a-8cf9-eb16540f1436",
+      "loginId": "roshini.r",
+      "repliedMessage": "I like SH",
+      "repliedDTTM": "2021-05-31T21:53:23.429",
+      "replyMsglike": 1,
+      "liked": true
+    },
+    {
+      "id": "08a346ea-7557-47fe-b3dc-ef3d515b5103",
+      "loginId": "roshini",
+      "repliedMessage": "I like VJ",
+      "repliedDTTM": "2021-05-31T21:58:39.412",
+      "replyMsglike": 1,
+      "liked": true
+    }
+  ],
+  "postDTTM": "2021-05-31T22:07:12.373",
+  "postLikeCount": 59
+}]

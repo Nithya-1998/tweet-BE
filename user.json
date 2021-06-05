@@ -1,0 +1,49 @@
+[{
+  "_id": "3ddb01c7-1bc9-426e-a4f1-ac3cf8452b5b",
+  "loginId": "nithya.t",
+  "firstName": "Nithya",
+  "lastName": "Thulasi",
+  "emailId": "nithya@gmail.com",
+  "phnNum": "7094812321",
+  "password": "Nithya@123",
+  "isLogIn": true,
+  "role": [
+    "USER"
+  ]
+},{
+  "_id": "2278a5e1-8443-40e0-8e29-324f3ea5ae8f",
+  "loginId": "nithya",
+  "firstName": "Nithya",
+  "lastName": "Thulasi",
+  "emailId": "nithya123@gmail.com",
+  "phnNum": "7094812326",
+  "password": "Nithya@123",
+  "isLogIn": true,
+  "role": [
+    "USER"
+  ]
+},{
+  "_id": "ac55e12e-9e1d-42c7-a6d5-c94ab2a5f7aa",
+  "loginId": "roshini",
+  "firstName": "Roshini",
+  "lastName": "G",
+  "emailId": "roshini123@gmail.com",
+  "phnNum": "7094812329",
+  "password": "Roshini@123",
+  "isLogIn": true,
+  "role": [
+    "USER"
+  ]
+},{
+  "_id": "73512196-8068-43cc-8539-4def962a7da8",
+  "loginId": "roshini.g",
+  "firstName": "Roshini",
+  "lastName": "Gopal",
+  "emailId": "roshini@gmail.com",
+  "phnNum": "7094812399",
+  "password": "Roshini@123",
+  "isLogIn": true,
+  "role": [
+    "USER"
+  ]
+}]
